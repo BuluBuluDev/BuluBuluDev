@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Fahmi!
-I love learn new thing in programming such as Javascript, Golang, Python.  
+# Hi there 👋 , I'm Hacker anonymous god programming language!
+I love learn new thing in programming such as rust, pascal, brainfuck ,ass , HTML ,CSS ,TAILWIN , .  
 
 <hr> 
 
@@ -26,36 +26,22 @@ I love learn new thing in programming such as Javascript, Golang, Python.
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🌱 I’m currently learning Rust, PHP ( Laravel ), and Golang </br>
-    - 📫 How to reach me: <a href="mailto:syntx@fusions.my.id">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
+    - 😄 Pronouns: 000101 </br>
 </details>
 
 <hr>
 
-### Wakatime Stats:
-<a href="https://wakatime.com/@fahmi_xd">
-   <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fahmi_xd&layout=compact&theme=holi" />
- </a>
-
-### Account Stats:
-<div style="display: flex; width: 100%; gap: 2rem;">
- <a href="https://github.com/Fahmi-XD">
-   <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=Fahmi-XD&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
- </a>
- <a href="https://github.com/Fahmi-XD">
-   <img height="180" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fahmi-XD&hide_progress=true&layout=compact&langs_count=10&card_width=300&bg_color=101010&title_color=01bdff&text_color=ffffff&border_color=01bdff&border=10" />
- </a>
 </div>
 
 <br>
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fahmi-XD&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=1&rank=-C,-?,-B" alt="Fahmi XD">
+  <img src="https://github-profile-trophy.vercel.app/?username=BuluBuluDev&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=1" alt="hoam">
 </div>
 
 <hr>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahmi-XD&theme=github-compact&radius=16" height="auto" alt="Fahmi XD"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuluBuluDev&theme=github-compact&radius=16" height="auto" alt="Fahmi XD"/>
 </div>
